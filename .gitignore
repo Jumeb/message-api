@@ -5,6 +5,11 @@
 
 /.gitignore
 
-/images org
+/images
+
+/videos
+
+/audios
+
 
 /.env
